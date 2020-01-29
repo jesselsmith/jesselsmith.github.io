@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "My Experience with the Rails Project"
-date:       2020-01-29 00:37:44 +0000
+date:       2020-01-28 19:37:45 -0500
 permalink:  my_experience_with_the_rails_project
 ---
 
@@ -51,3 +51,5 @@ At the end I did spend some time fixing/changing my implementation of how I calc
 I would have liked to spend more time on making BetterBoardGaming look a bit more presentable and functional, but I had already used up too much time.
 
 It was a valuable project though, I learned a lot, and got much more comfortable living in my code and navigating through all the different routes, controllers and views. So glad I finished it!
+
+Find the repo [here](https://github.com/jesselsmith/RailsProject/)!
